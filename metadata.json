@@ -1,0 +1,6 @@
+{
+  "name": "ClarifySQL",
+  "description": "Adaptive Schema-Grounded Clarification for Conversational Text-to-SQL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

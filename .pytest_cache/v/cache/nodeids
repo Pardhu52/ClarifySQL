@@ -1,0 +1,17 @@
+[
+  "backend/tests/test_api.py::test_api_execute_sql",
+  "backend/tests/test_api.py::test_api_validate_sql_blocked",
+  "backend/tests/test_api.py::test_api_validate_sql_valid",
+  "backend/tests/test_api.py::test_get_join_path",
+  "backend/tests/test_api.py::test_get_schema",
+  "backend/tests/test_api.py::test_get_schema_graph",
+  "backend/tests/test_api.py::test_health_check",
+  "backend/tests/test_api.py::test_list_databases",
+  "backend/tests/test_phase1.py::test_explainability_report",
+  "backend/tests/test_phase1.py::test_networkx_schema_graph",
+  "backend/tests/test_phase1.py::test_safe_sql_execution",
+  "backend/tests/test_phase1.py::test_schema_introspection",
+  "backend/tests/test_phase1.py::test_sqlglot_validator_hallucination_detection",
+  "backend/tests/test_phase1.py::test_sqlglot_validator_safety_blocking",
+  "backend/tests/test_phase1.py::test_sqlglot_validator_valid_queries"
+]
